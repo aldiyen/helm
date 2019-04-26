@@ -8,3 +8,4 @@ addSbtPlugin("io.verizon.build" % "sbt-rig"         % "5.0.39")
 // docs
 addSbtPlugin("com.typesafe"     % "sbt-mima-plugin" % "0.1.14")
 addSbtPlugin("org.tpolecat"     % "tut-plugin" % "0.6.7")
+addSbtPlugin("net.virtual-void" % "sbt-dependency-graph" % "0.9.1")
